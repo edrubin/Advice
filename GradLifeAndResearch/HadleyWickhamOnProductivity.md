@@ -1,4 +1,4 @@
-#Hadley Wickham on productivity:
+#Hadley Wickham on productivity
 
 - **Writing.** I have worked really hard to build a solid writing habit - I try and write for 60-90 minutes every morning. It's the first thing I do after I get out of bed. I think writing is really helpful to me for a few reasons. First, I often use my writing as a reference - I don't program in C++ every day, so I'm constantly referring to @Rcpp  every time I do. Writing also makes me aware of gaps in my knowledge and my tools, and filling in those gaps tends to make me more efficient at tackling new problems.
 - **Reading.** I read a lot. I follow about 300 blogs, and keep a pretty close eye on the R tags on Twitter and Stack Overflow. I don't read most things deeply - the majority of content I only briefly skim. But this wide exposure helps me keep up with changes in technology, interesting new programming languages, and what others are doing with data. It's also helpful that if when you're tackling a new problem you can recognise the basic name - then googling for it will suggest possible solutions. If you don't know the name of a problem, it's very hard to research it.
