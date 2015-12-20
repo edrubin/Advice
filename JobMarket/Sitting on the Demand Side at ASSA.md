@@ -1,5 +1,7 @@
 # JOB MARKET ADVICE: SITTING ON THE DEMAND SIDE AT ASSA
 
+from [Marc Bellemare](http://marcfbellemare.com/wordpress/11499)
+
 *(Edit: My household’s dependency ratio having gone from zero to 0.33 overnight two weeks ago, in my sleep-deprived state, I had initially titled this post “Sitting on the Supply Side …,” when I truly meant “Sitting on the Demand Side ….” Apologies for the confusion.)*
 
 [Jessica Hoel](http://jessicabhoel.com/) comments on my last post, in which I gave my usual advice to job-market candidates interviewing at ASSA:
